@@ -1,6 +1,6 @@
 /*Body*/
 body{
-    background-image: url("ProgrammingBackground2.jpg");
+    background-image: url("images/backgrounds/code-lines.jpg");
     background-size:cover;
     background-position: center;
 }
@@ -39,7 +39,7 @@ body{
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     background-size: contain;
     background-position: center;
-    background-image: url("ProgrammingBackground3.png");
+    background-image: url("images/backgrounds/tags.png");
 }
 
 .startingDivHeader{
@@ -65,7 +65,7 @@ body{
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     padding-bottom: 1rem;
     padding-top: 20px;
-    background-image: url("ProgrammingBackground.jpg");
+    background-image: url("images/backgrounds/pixels.jpg");
     background-size:cover;
     background-position: center;
 }
